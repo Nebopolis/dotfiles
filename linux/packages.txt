@@ -1,0 +1,77 @@
+   0.00 MiB	pulseaudio-alsa     	ALSA Configuration for PulseAudio
+   0.02 MiB	aurvote             	Tool to vote for favorite AUR packages
+   0.03 MiB	dmenu               	A generic menu for X
+   0.03 MiB	efibootmgr          	Tool to modify UEFI Firmware Boot Manager Variables
+   0.03 MiB	expac               	pacman database extraction utility
+   0.05 MiB	xorg-xlsfonts       	List available X fonts
+   0.08 MiB	volwheel            	Tray icon to change volume with the mouse
+   0.08 MiB	xorg-xinit          	X.Org initialisation program
+   0.10 MiB	ttf-inconsolata     	Monospace font for pretty code listings and for the terminal
+   0.13 MiB	fbterm              	A fast terminal emulator for linux with frame buffer device or VESA video card
+   0.13 MiB	thunar-archive-plugin	Create and extract archives in Thunar
+   0.14 MiB	htop                	Interactive process viewer
+   0.15 MiB	lxlauncher          	Open source clone of the Asus launcher for EeePC
+   0.18 MiB	lxmenu-data         	freedesktop.org desktop menus for LXDE
+   0.21 MiB	paprefs             	A simple GTK-based configuration dialog for PulseAudio
+   0.23 MiB	dosfstools          	DOS filesystem utilities
+   0.24 MiB	lxtask              	Task manager of the LXDE Desktop
+   0.25 MiB	lxappearance-obconf 	Plugin for LXAppearance to configure Openbox
+   0.27 MiB	ttf-oxygen-ibx      	The Oxygen typeface family is created as part of the KDE Project.
+   0.33 MiB	lxdm                	Lightweight X11 Display Manager
+   0.34 MiB	udevil              	Mount and unmount without password
+   0.35 MiB	gpicview            	Lightweight image viewer
+   0.36 MiB	lxappearance        	Feature-rich GTK+ theme switcher of the LXDE Desktop
+   0.37 MiB	lxterminal          	VTE-based terminal emulator (part of LXDE)
+   0.43 MiB	yaourt              	A pacman wrapper with extended features and AUR support
+   0.44 MiB	xf86-video-ati      	X.org ati video driver
+   0.46 MiB	lxmusic             	Lightweight XMMS2 client
+   0.51 MiB	rsync               	A file transfer program to keep remote files in sync
+   0.52 MiB	tmux                	A terminal multiplexer
+   0.53 MiB	adobe-source-serif-pro-fonts	A set of serif OpenType fonts designed to complement Source Sans Pro
+   0.60 MiB	thunar-volman       	Automatic management of removeable devices in Thunar
+   0.67 MiB	pavucontrol         	A GTK volume control for PulseAudio
+   0.68 MiB	notify-osd          	Canonical's on-screen-display notification agent, implementing the freedesktop.org Desktop Notifications Specification with semi-transparent click-through bubbles
+   0.71 MiB	lxrandr             	Monitor configuration tool (part of LXDE)
+   0.72 MiB	xterm               	X Terminal Emulator
+   0.73 MiB	lxinput             	A small program to configure keyboard and mouse for LXDE.
+   0.77 MiB	tumbler             	D-Bus service for applications to request thumbnails
+   0.88 MiB	lxde-common         	Common files of the LXDE Desktop
+   0.96 MiB	fontconfig-infinality-ultimate	A library for configuring and customizing font access, optimized for freetype2-infinality-ultimate (git version, r1780).
+   1.19 MiB	openbox             	Highly configurable and lightweight X11 window manager
+   1.21 MiB	pcmanfm             	Extremely fast and lightweight file manager
+   1.43 MiB	ntfs-3g             	NTFS filesystem driver and utilities
+   1.45 MiB	ttf-droid-ib        	General-purpose fonts released by Google as part of Android. Includes additional monospaced variants with dotted and slashed zeros.
+   1.68 MiB	livestreamer        	CLI program that launches streams from various streaming services in a custom video player
+   1.75 MiB	adobe-source-code-pro-fonts	Monospaced font family for user interface and coding environments
+   1.81 MiB	adobe-source-sans-pro-fonts	Sans serif font family for user interface environments
+   1.89 MiB	parted              	A program for creating, destroying, resizing, checking and copying partitions
+   1.94 MiB	freetype2-infinality-ultimate	TrueType font rendering library with Infinality patches and custom settings.
+   1.96 MiB	alsa-utils          	An alternative implementation of Linux sound support
+   2.23 MiB	libva-mesa-driver   	VA-API implementation for gallium
+   2.58 MiB	vim                 	Vi Improved, a highly configurable, improved version of the vi text editor (with support for additional scripting languages)
+   2.88 MiB	rxvt-unicode        	A unicode enabled rxvt-clone terminal emulator (urxvt)
+   3.02 MiB	lxpanel             	Lightweight X11 desktop panel for LXDE
+   3.44 MiB	cairo-infinality-ultimate	Cairo vector graphics library
+   3.58 MiB	xmobar              	A Minimalistic Text Based Status Bar
+   3.60 MiB	ttf-symbola-ib      	Symbola is a free symbol-type font.
+   3.71 MiB	mpv                 	Video player based on MPlayer/mplayer2
+   3.79 MiB	pidgin              	Multi-protocol instant messaging client
+   3.93 MiB	gtk2-perl           	Perl bindings for GTK+ 2.x
+   3.93 MiB	ttf-liberation      	Red Hats Liberation fonts.
+   4.27 MiB	openssh             	Free version of the SSH connectivity tools
+   4.62 MiB	scite               	Editor with facilities for building and running programs
+   4.76 MiB	lxde-icon-theme     	LXDE default icon theme based on nuoveXT2
+   4.95 MiB	thunar              	Modern file manager for Xfce
+   5.02 MiB	zsh                 	A very advanced and programmable command interpreter (shell) for UNIX
+   5.20 MiB	pulseaudio          	A featureful, general-purpose sound server
+   5.42 MiB	gvfs                	Userspace virtual filesystem implemented as a pluggable module for gio
+   6.72 MiB	xmonad              	Lightweight X11 tiled window manager written in Haskell
+   7.25 MiB	youtube-dl          	A small command-line program to download videos from YouTube.com and a few more sites
+   7.78 MiB	udisks2             	Disk Management Service, version 2
+   8.19 MiB	gst-plugins-good    	GStreamer Multimedia Framework Good Plugins
+   9.01 MiB	ttf-dejavu          	Font family based on the Bitstream Vera Fonts with a wider range of characters
+  12.25 MiB	smplayer            	A complete front-end for MPlayer
+  25.15 MiB	git                 	the fast distributed version control system
+  28.87 MiB	grub                	GNU GRand Unified Bootloader (2)
+  53.83 MiB	xmonad-contrib      	Add-ons for xmonad
+  90.99 MiB	firefox             	Standalone web browser from mozilla.org
